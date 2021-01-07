@@ -22,3 +22,5 @@ Auto-Precision Scaling for Distributed Deep Learning
 [NVIDIA 混合精度编程指南](https://docs.nvidia.com/deeplearning/performance/pdf/Training-Mixed-Precision-User-Guide.pdf)
 
 [Awesome ML Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
+
+
