@@ -1,6 +1,23 @@
 # model-optimization
 model optimization, model compression, model pruning
 
+#### Model Quantization
+
+********
+1. 选择要量化的模型 : 准确率, 性能
+
+  Get a model to quantize
+
+  [ONNX resnet model](https://github.com/onnx/models/tree/main/vision/classification/resnet)
+  
+
+2. 选择量化工具进行量化 :
+  
+  [Intel : ONNX Qunatization](https://github.com/intel/neural-compressor/blob/master/examples/onnxrt/image_recognition/onnx_model_zoo/resnet50/quantization/ptq/README.md)
+
+3. 测试量化后的模型准确率 :
+
+  [onnxrt_inference](https://github.com/onnx/models/blob/main/vision/classification/onnxrt_inference.ipynb)
 
 
 #### Model Optimization
